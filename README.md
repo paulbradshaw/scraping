@@ -16,6 +16,7 @@ This repository contains resources related to scraping.
 * [How to scrape webpages and ask questions with Google Docs and =importXML](https://onlinejournalismblog.com/2011/07/29/sftw-how-to-scrape-webpages-and-ask-questions-with-google-docs-and-importxml/)
 * More importXML: [Asking questions of a webpage – and finding out when those answers change](https://onlinejournalismblog.com/2011/08/05/sftw-asking-questions-of-a-webpage-and-finding-out-when-those-answers-change/)
 * And more: [Scraping data from a list of webpages using Google Docs](https://onlinejournalismblog.com/2011/10/14/scraping-data-from-a-list-of-webpages-using-google-docs/)
+* [How to: find the data behind an interactive chart or map using the inspector](https://onlinejournalismblog.com/2017/05/10/how-to-find-data-behind-chart-map-using-inspector/)
 * Here's a tutorial on [using Workbench to scrape Twitter - and regex](https://github.com/paulbradshaw/scraping/blob/master/workbenchregex.md)
 
 ## Examples
