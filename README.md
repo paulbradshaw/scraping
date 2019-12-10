@@ -8,8 +8,12 @@ This repository contains resources related to scraping.
 
 * A [presentation introducing scraping and examples of its use in journalism is on Slideshare here](https://www.slideshare.net/onlinejournalist/scraping-in-journalism-an-introduction)
 * Another [presentation using IFTTT and Google Sheets to explore scraping techniques is on Slideshare here](https://www.slideshare.net/onlinejournalist/scraping-in-60-minutes-103417415)
-* [Here's a tutorial on using scraping functions in Google Sheets](https://github.com/paulbradshaw/CIJSS_scraping/blob/master/scrapingfunctions.md)
+
+## Tutorials
+
+* [Here's a tutorial on using scraping functions in Google Sheets](https://github.com/paulbradshaw/scraping/blob/master/scrapingfunctions.md)
 * You can also [follow this tutorial by Dan Wainwright](https://onlinejournalismblog.com/2016/11/29/how-the-bbc-england-data-unit-scraped-airport-noise-complaints/)
+* Here's a tutorial on [using Workbench to scrape Twitter - and regex](https://github.com/paulbradshaw/scraping/blob/master/workbenchregex.md)
 
 ## Examples
 
