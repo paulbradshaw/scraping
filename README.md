@@ -11,8 +11,11 @@ This repository contains resources related to scraping.
 
 ## Tutorials
 
-* [Here's a tutorial on using scraping functions in Google Sheets](https://github.com/paulbradshaw/scraping/blob/master/scrapingfunctions.md)
+* IMPORTHTML: [Here's a tutorial on using scraping functions in Google Sheets](https://github.com/paulbradshaw/scraping/blob/master/scrapingfunctions.md)
 * You can also [follow this tutorial by Dan Wainwright](https://onlinejournalismblog.com/2016/11/29/how-the-bbc-england-data-unit-scraped-airport-noise-complaints/)
+* [How to scrape webpages and ask questions with Google Docs and =importXML](https://onlinejournalismblog.com/2011/07/29/sftw-how-to-scrape-webpages-and-ask-questions-with-google-docs-and-importxml/)
+* More importXML: [Asking questions of a webpage – and finding out when those answers change](https://onlinejournalismblog.com/2011/08/05/sftw-asking-questions-of-a-webpage-and-finding-out-when-those-answers-change/)
+* And more: [Scraping data from a list of webpages using Google Docs](https://onlinejournalismblog.com/2011/10/14/scraping-data-from-a-list-of-webpages-using-google-docs/)
 * Here's a tutorial on [using Workbench to scrape Twitter - and regex](https://github.com/paulbradshaw/scraping/blob/master/workbenchregex.md)
 
 ## Examples
