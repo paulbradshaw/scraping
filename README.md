@@ -89,6 +89,12 @@ Different challenges require different skills and tools. Broadly speaking factor
 * [Resources on ethics and scraping bookmarked here](http://pinboard.in/u:paulbradshaw/t:scraping+ethics)
 * [Resources on law and scraping bookmarked here](http://pinboard.in/u:paulbradshaw/t:scraping+law)
 
+## Where to find coders
+
+* [Hacks/Hackers](https://hackshackers.com/) is a network of meetups where journalists and developers can meet and learn from each other, collaborate etc.
+* [Democracy Club](https://democracyclub.org.uk/) is a network of civic coders - people who want to use their coding skills to improve society and, in particular, democratic accountability. They often organise events.
+* Look out for hackdays organised within the news industry, too, where journalists and developers are put together to explore ideas and potential projects.
+
 ## Resources
 
 * The book [Scraping for Journalists](https://leanpub.com/scrapingforjournalists) covers scraping using Google Sheets and tools like OutWit Hub, plus programming techniques for scraping databases, spreadsheets and PDFs.
