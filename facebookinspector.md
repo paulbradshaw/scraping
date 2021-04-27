@@ -10,6 +10,8 @@ Switch to the *Network* tab. This monitors traffic as a page is loaded: for exam
 
 But it only starts monitoring once it's open. So, now you can navigate to the page you want to 'store' (or refresh the page if you're already on it).
 
+![](https://raw.githubusercontent.com/paulbradshaw/scraping/master/fbinspector.png)
+
 You should see the Network view fill up with details on all the files loaded.
 
 Click on the 'cog' icon to the far right of the Network view, and select **Save all as HAR**
