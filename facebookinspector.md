@@ -17,3 +17,5 @@ You should see the Network view fill up with details on all the files loaded.
 Click on the 'cog' icon to the far right of the Network view, and select **Save all as HAR**
 
 This will save the files loaded by the page as a .har file - you can treat this as you do a JSON file. There will be lots of information but it should include posts or other items you want to drill down into.
+
+Dror Kessler has a [repository of shell scripts](https://github.com/paulbradshaw/hdjf-course-materials/tree/main/scripts/facebook) for collecting and cleaning those HAR files.
